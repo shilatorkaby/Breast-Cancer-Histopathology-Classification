@@ -16,7 +16,7 @@ The dataset contains 2 classes:
 
 I split the data as shown:
 
-![](readme_images/split_data.png) 
+![](readme_images/split_data.jpeg) 
 
 with 80 % train and 20% test (the validation will be splitted later). 
 
