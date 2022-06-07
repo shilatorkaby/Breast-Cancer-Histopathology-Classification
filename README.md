@@ -8,7 +8,7 @@ In our project we used CNN and transfer learning to classify breast cancer image
 The dataset can be downloaded from here: 
 https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 
-The dataset contain 2 classes:
+The dataset contains 2 classes:
 1. Benign Tumor - 
   Benign tumors are those that stay in their primary location without invading other sites of     the body. Benign tumors tend to grow slowly and have distinct borders.
 2. Malignant Tumor-
@@ -50,4 +50,11 @@ The model is able to reach a validation accuracy of 80% :
 
 ## Correct/Incorrect classification samples
 ![](readme_images/predictionsVSactual.png)
+
+
+# Project files:
+ readme_images folder- images for readme discription.
+ breast_cancer_classification- classification model for breast cancer dataset
+ split- code to split the full dataset (with malingnant and benign classes) to train and test folders.
+ 
 
