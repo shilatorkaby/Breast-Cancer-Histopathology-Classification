@@ -54,7 +54,9 @@ The model is able to reach a validation accuracy of 80% :
 
 # Project files:
  readme_images folder- images for readme discription.
- breast_cancer_classification- classification model for breast cancer dataset
+ 
+ breast_cancer_classification- classification model for breast cancer dataset.
+ 
  split- code to split the full dataset (with malingnant and benign classes) to train and test folders.
  
 
