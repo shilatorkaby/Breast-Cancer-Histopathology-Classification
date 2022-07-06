@@ -18,19 +18,12 @@ I split the data as shown:
 
 ![](readme_images/split_data.jpeg) 
 
-with 80 % train and 20% test (the validation will be splitted later). 
+with 80 % train and 20% test (that will split later to 20% validation).
 
-train
-number of files in malignant:1512
-number of files in benign:555
+train size: 2067, that split to 1512 images to malignant folder, and 555 images in benign folder.
+validation size:517, that  split to 378 images in malignant folder, and 139 images in benign folder.
 
-validation
-number of files in malignant:189
-number of files in benign:70
 
-test
-number of files in malignant:189
-number of files in benign:69
 
 
 # Environment and packages
