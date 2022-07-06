@@ -12,13 +12,25 @@ The dataset contains 2 classes:
 1. Benign Tumor - 
   Benign tumors are those that stay in their primary location without invading other sites of     the body. Benign tumors tend to grow slowly and have distinct borders.
 2. Malignant Tumor-
-  Malignant tumors are cancerous cells that grow uncontrollably and spread locally and/or to       distant sites. Malignant tumors can spread rapidly and require treatment to avoid spread. If     they are caught early, treatment is likely will be  more simple and with good react.
+  Malignant tumors are cancerous cells that grow uncontrollably and spread locally and/or to       distant sites. Malignant tumors can spread rapidly and require treatment to avoid spread. If they are caught early, treatment is likely will be  more simple and with good react.
 
 I split the data as shown:
 
 ![](readme_images/split_data.jpeg) 
 
 with 80 % train and 20% test (the validation will be splitted later). 
+
+train
+number of files in malignant:1512
+number of files in benign:555
+
+validation
+number of files in malignant:189
+number of files in benign:70
+
+test
+number of files in malignant:189
+number of files in benign:69
 
 
 # Environment and packages
