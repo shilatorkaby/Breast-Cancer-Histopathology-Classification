@@ -20,9 +20,9 @@ I split the data as shown:
 
 with 80 % train and 20% test (that will split later to 20% validation).
 
-Train size: 2067, that split to 1512 images to malignant folder, and 555 images in benign folder.
+Train size: 2067, that splits to 1512 images to malignant folder, and 555 images in benign folder.
 
-Validation size: 517, that split to 378 images in malignant folder, and 139 images in benign folder.
+Validation size: 517, that splits to 378 images in malignant folder, and 139 images in benign folder.
 
 
 
