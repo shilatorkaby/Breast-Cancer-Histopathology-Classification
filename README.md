@@ -59,4 +59,5 @@ The model is able to reach a validation accuracy of 80% :
  
  •split.ipynb- code to split the full dataset (with malingnant and benign classes) to train and test folders. 
  
+ •files_name.txt- contain the amount and the names of the data images after the split.
 
